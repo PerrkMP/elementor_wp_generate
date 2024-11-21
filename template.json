@@ -1,0 +1,27 @@
+{
+  "version": "3.0.0",
+  "content": [
+    {
+      "id": "unique_id",
+      "elType": "section",
+      "settings": {},
+      "elements": [
+        {
+          "id": "unique_id_inner",
+          "elType": "column",
+          "settings": {},
+          "elements": [
+            {
+              "id": "unique_id_widget",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Уникальный заголовок"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
